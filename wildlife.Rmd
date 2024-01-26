@@ -1,0 +1,63 @@
+---
+title: "Wildlife Photos"
+author: "Elisa Padulosi"
+date: "18-01-2024"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("C:/Users/lg 17z90n/Desktop/images")
+```
+
+
+# Enjoy some images of my adventures
+## **Mammals:bats**
+
+<figure>
+  <img src="https://github.com/ElisaPadu/wildlife-photos-1/raw/main/bat2.JPG" alt="Rhinolophus ferrumequinum" width="500">
+  <figcaption><em>Rhinolophus ferrumequinum</em></figcaption>
+</figure>
+
+<br><br>
+
+<figure>
+  <img src="https://github.com/ElisaPadu/wildlife-photos-1/raw/2f99acdf517d0c1cbaab3f3bfca2c3f954a756dd/bat3.JPG" alt="Pipistrellus kuhlii" width="500">
+  <figcaption><em>Pipistrellus kuhlii</em></figcaption>
+</figure>
+
+<br><br>
+
+<figure>
+  <img src="https://github.com/ElisaPadu/wildlife-photos-1/raw/2f99acdf517d0c1cbaab3f3bfca2c3f954a756dd/bat4.JPG" alt="Flying bats" width="500">
+  <figcaption><em>Flying bats</em></figcaption>
+</figure>
+
+<br><br>
+---
+# **Birds**
+
+<figure>
+  <img src="https://github.com/ElisaPadu/wildlife-photos-1/raw/2f99acdf517d0c1cbaab3f3bfca2c3f954a756dd/p1.JPG" alt="Spheniscus magellanicus" width="500">
+  <figcaption><em>Spheniscus magellanicus</em></figcaption>
+</figure>
+
+<br><br>
+
+<figure>
+  <img src="https://github.com/ElisaPadu/wildlife-photos-1/raw/2f99acdf517d0c1cbaab3f3bfca2c3f954a756dd/p4.JPG" alt="Eudyptes chrysocome" width="500">
+  <figcaption><em>Eudyptes chrysocome</em></figcaption>
+</figure>
+
+<br><br>
+---
+# **Reptiles**
+
+<figure>
+  <img src="https://github.com/ElisaPadu/wildlife-photos-1/raw/2f99acdf517d0c1cbaab3f3bfca2c3f954a756dd/lizard.JPG" alt="Podarcis siculus" width="500">
+  <figcaption><em>Podarcis siculus</em></figcaption>
+</figure>
+
+<br><br>
+
+
